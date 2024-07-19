@@ -20,11 +20,13 @@ _Прочитайте это на других языках_: [`Russian`](README
 
 ## 📈 Статистика и Достижения
 
-![GitHub Репозитории](https://img.shields.io/badge/GitHub%20Repositories-10+-blue)<!-- ![Контрибуции](https://img.shields.io/badge/Contributions-250%2B-brightgreen) -->
+![GitHub Репозитории](https://img.shields.io/badge/GitHub%20Repositories-10+-blue)
+![Контрибуции](https://img.shields.io/badge/Contributions-200%2B-brightgreen)
 ![Звезды](https://img.shields.io/badge/Stars-10%2B-yellow)
 ![Фолловеры](https://img.shields.io/badge/Followers-2-blueviolet)
 
-- **Репозитории**: 10+ активных репозиториев на GitHub<!-- - **Контрибуции**: 250+ контрибуций в открытые проекты -->
+- **Репозитории**: 10+ активных репозиториев на GitHub 
+- **Контрибуции**: 200+ контрибуций в открытые проекты
 - **Звезды**: 10+ звезд за мои проекты
 - **Фолловеры**: 2 фолловера на GitHub
 
@@ -33,7 +35,7 @@ _Прочитайте это на других языках_: [`Russian`](README
 [![Fiverr](https://img.shields.io/badge/Fiverr-Profile-green)](https://www.fiverr.com/sondercode?up_rollout=true)
 [![YouTube](https://img.shields.io/badge/youtube-@SonderCode-red)](https://www.youtube.com/@SonderCode)
 
-<!-- - **Email**: [your.email@example.com](mailto:your.email@example.com) -->
+
 - **Fiverr**: [`@sondercode`](https://www.fiverr.com/sondercode?up_rollout=true)
 - **YouTube**: [`YouTube channel`](https://www.youtube.com/@SonderCode)
 

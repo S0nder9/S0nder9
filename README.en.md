@@ -20,11 +20,12 @@ Welcome to my GitHub profile! I'm a front-end developer with experience in HTML,
 
 ## 📈 Stats and Achievements
 
-![GitHub Repositories](https://img.shields.io/badge/GitHub%20Repositories-10+-blue)<!-- ![Contributions](https://img.shields.io/badge/Contributions-250%2B-brightgreen) -->
+![GitHub Repositories](https://img.shields.io/badge/GitHub%20Repositories-10+-blue)![Contributions](https://img.shields.io/badge/Contributions-200%2B-brightgreen)
 ![Stars](https://img.shields.io/badge/Stars-10%2B-yellow)
 ![Followers](https://img.shields.io/badge/Followers-2-blueviolet)
 
-- **Repositories**: 10+ active repositories on GitHub<!-- - **Contributions**: 250+ contributions to open-source projects -->
+- **Repositories**: 10+ active repositories on GitHub
+- **Contributions**: 200+ contributions to open-source projects
 - **Stars**: 10+ stars on my projects
 - **Followers**: 2 followers on GitHub
 
@@ -33,7 +34,7 @@ Welcome to my GitHub profile! I'm a front-end developer with experience in HTML,
 [![Fiverr](https://img.shields.io/badge/Fiverr-Profile-green)](https://www.fiverr.com/sondercode?up_rollout=true)
 [![YouTube](https://img.shields.io/badge/youtube-@SonderCode-red)](https://www.youtube.com/@SonderCode)
 
-<!-- - **Email**: [your.email@example.com](mailto:your.email@example.com) -->
+
 - **Fiverr**: [`@sondercode`](https://www.fiverr.com/sondercode?up_rollout=true)
 - **YouTube**: [`YouTube channel`](https://www.youtube.com/@SonderCode)
 
