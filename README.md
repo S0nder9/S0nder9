@@ -1,4 +1,4 @@
-_Прочитайте это на других языках_: [`Russian`](README), [`English`](READMEEnglish)
+_Прочитайте это на других языках_: [`Russian`](README.md), [`English`](README.en.md)
 
 # Привет! Я Nikita Patrushev 👋
 
