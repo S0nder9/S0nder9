@@ -1,6 +1,6 @@
 _Read this in other languages_: [`Russian`](README.ru.md), [`English`](README.md)
 
-# Hi! I'm Nikita Patrushev 👋
+# Hi! I'm Sonder 👋
 
 Welcome to my GitHub profile! I'm a front-end developer with experience in HTML, CSS, JavaScript, React, Node.js, and Python. Here you will find projects I have worked on, as well as useful repositories for developers.
 
