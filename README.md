@@ -44,11 +44,6 @@ Here you can find the projects I’ve been working on as well as useful reposito
 - **Contributions**: 200+ contributions to open source projects  
 - **Stars**: 10+ stars on my projects  
 
-## 📫 Contact Me
-
-[![Fiverr](https://img.shields.io/badge/Fiverr-Profile-green)](https://www.fiverr.com/sondercode?up_rollout=true)
-[![YouTube](https://img.shields.io/badge/youtube-@SonderCode-red)](https://www.youtube.com/@SonderCode)
-
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S0nder9&show_icons=true&theme=radical)

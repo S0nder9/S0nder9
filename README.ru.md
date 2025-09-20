@@ -44,11 +44,6 @@ _Прочитайте это на других языках_: [`Russian`](README
 - **Контрибуции**: 200+ контрибуций в открытые проекты
 - **Звезды**: 10+ звезд за мои проекты
 
-## 📫 Как связаться со мной
-
-[![Fiverr](https://img.shields.io/badge/Fiverr-Profile-green)](https://www.fiverr.com/sondercode?up_rollout=true)
-[![YouTube](https://img.shields.io/badge/youtube-@SonderCode-red)](https://www.youtube.com/@SonderCode)
-
 
 ## 📈 Статистика GitHub
 
