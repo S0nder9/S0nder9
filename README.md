@@ -39,7 +39,6 @@ Here you can find the projects I’ve been working on as well as useful reposito
 ![GitHub Repositories](https://img.shields.io/badge/GitHub%20Repositories-10+-blue)
 ![Contributions](https://img.shields.io/badge/Contributions-200%2B-brightgreen)
 ![Stars](https://img.shields.io/badge/Stars-10%2B-yellow)
-![Followers](https://img.shields.io/badge/Followers-2-blueviolet)
 
 - **Repositories**: 10+ active repositories on GitHub  
 - **Contributions**: 200+ contributions to open source projects  

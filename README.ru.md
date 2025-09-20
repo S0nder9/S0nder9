@@ -39,7 +39,6 @@ _Прочитайте это на других языках_: [`Russian`](README
 ![GitHub Репозитории](https://img.shields.io/badge/GitHub%20Repositories-10+-blue)
 ![Контрибуции](https://img.shields.io/badge/Contributions-200%2B-brightgreen)
 ![Звезды](https://img.shields.io/badge/Stars-10%2B-yellow)
-![Фолловеры](https://img.shields.io/badge/Followers-2-blueviolet)
 
 - **Репозитории**: 10+ активных репозиториев на GitHub 
 - **Контрибуции**: 200+ контрибуций в открытые проекты
