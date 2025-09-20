@@ -1,12 +1,12 @@
-_Read this in other languages_: [`Russian`](README.ru.md), [`English`](README.md)
+_Прочитайте это на других языках_: [`Russian`](README.ru.md), [`English`](README.md)
 
-# Hi! I’m Sonder 👋
+# Привет! Я Sonder 👋
 
-Welcome to my GitHub profile!  
-I’m a frontend and backend developer experienced in **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, **Node.js**, **Django**, and **Python**.  
-Here you can find the projects I’ve been working on as well as useful repositories for developers.
+Добро пожаловать в мой профиль GitHub!  
+Я фронтенд и бэкенд-разработчик с опытом работы в **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, **Node.js**, **Django** и **Python**.  
+Здесь вы найдете проекты, над которыми я работал, а также полезные репозитории для разработчиков.
 
-## 🛠️ Skills & Technologies
+## 🛠️ Навыки и Технологии
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
@@ -17,47 +17,49 @@ Here you can find the projects I’ve been working on as well as useful reposito
 ![Django](https://img.shields.io/badge/Django-green)
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 
-- **Databases**: Firebase, PostgreSQL, SQLite, MongoDB
+- **Базы данных**: Firebase, PostgreSQL, SQLite, MongoDB
 
-## 🌐 My Projects & Websites
+## 🌐 Мои проекты и сайты
 
-- [CDN](https://cdn-site-self.vercel.app/ru) — A programming reference hub.
-- [AvtoBox18](https://xn--18-6kcee3c0ab2af.xn--p1ai/) — Website developed for the AvtoBox18 car service.
-- [RusEGE](https://xn--c1ad6aej7d.xn--p1ai/) — Website to help students prepare for Russian language exams (OGE, EGE).
-- [AutoSchedule](https://auto-schedule.vercel.app/) — A modern scheduling management system for car services.
-- [IT Lyceum](https://itlyceum.vercel.app/) — Website of the IT Lyceum with useful information and learning resources.
-- [TextVoicing](https://s0nder9.github.io/TextVoicing/) — A text-to-speech tool with multi-voice support.
-- [Ireland](https://ireland-chi.vercel.app/) — An informational site/project about travel and Ireland.
+- [CDN](https://cdn-site-self.vercel.app/ru) — Справочник по программированию.
+- [Автобокс18](https://xn--18-6kcee3c0ab2af.xn--p1ai/) — Сайт, разработанный для автосервиса Автобокс18.
+- [Русегэ](https://xn--c1ad6aej7d.xn--p1ai/) — Сайт для подготовки учеников к экзаменам по русскому языку (ОГЭ, ЕГЭ).
+- [AutoSchedule](https://auto-schedule.vercel.app/) — Современная система управления записями для автосервисов. .
+- [ИТ-лицей](https://itlyceum.vercel.app/) — Сайт IT-лицея с полезной информацией и учебными ресурсами.
+- [TextVoicing](https://s0nder9.github.io/TextVoicing/) — Инструмент озвучивания текста с поддержкой нескольких голосов.
+- [Ирландия](https://ireland-chi.vercel.app/) — Информационный сайт/проект о путешествиях и Ирландии.
 
-## 📦 My npm Libraries
+## 📦 Мои npm-библиотеки
 
-- [sonder-tools](https://www.npmjs.com/package/sonder-tools) — A small set of utilities and functions to simplify development.
-- [alyticui](https://www.npmjs.com/package/alyticui) — A lightweight UI framework with ready-to-use components.
+- [sonder-tools](https://www.npmjs.com/package/sonder-tools) — Небольшой набор утилит и функций для упрощения разработки.
+- [alyticui](https://www.npmjs.com/package/alyticui) — UI-фреймворк с готовыми компонентами.
 
-## 📈 Stats & Achievements
+## 📈 Статистика и Достижения
 
-![GitHub Repositories](https://img.shields.io/badge/GitHub%20Repositories-10+-blue)
-![Contributions](https://img.shields.io/badge/Contributions-200%2B-brightgreen)
-![Stars](https://img.shields.io/badge/Stars-10%2B-yellow)
-![Followers](https://img.shields.io/badge/Followers-2-blueviolet)
+![GitHub Репозитории](https://img.shields.io/badge/GitHub%20Repositories-10+-blue)
+![Контрибуции](https://img.shields.io/badge/Contributions-200%2B-brightgreen)
+![Звезды](https://img.shields.io/badge/Stars-10%2B-yellow)
+![Фолловеры](https://img.shields.io/badge/Followers-2-blueviolet)
 
-- **Repositories**: 10+ active repositories on GitHub  
-- **Contributions**: 200+ contributions to open source projects  
-- **Stars**: 10+ stars on my projects  
+- **Репозитории**: 10+ активных репозиториев на GitHub 
+- **Контрибуции**: 200+ контрибуций в открытые проекты
+- **Звезды**: 10+ звезд за мои проекты
 
-## 📫 Contact Me
+## 📫 Как связаться со мной
 
 [![Fiverr](https://img.shields.io/badge/Fiverr-Profile-green)](https://www.fiverr.com/sondercode?up_rollout=true)
 [![YouTube](https://img.shields.io/badge/youtube-@SonderCode-red)](https://www.youtube.com/@SonderCode)
 
-## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S0nder9&show_icons=true&theme=radical)
+## 📈 Статистика GitHub
+
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=S0nder9&show_icons=true&theme=radical)
+
 
 [![Gif1](assets/bJk.gif)](assets/bJk.gif)
 
 ---
 
-Thank you for visiting my profile! Happy coding! 🚀  
+Спасибо, что посетили мой профиль! Удачного кодинга! 🚀
 
-[`GitHub Link`](https://github.com/S0nder9)
+[`Ссылка на GitHub`](https://github.com/S0nder9)
