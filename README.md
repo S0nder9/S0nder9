@@ -22,7 +22,7 @@ Here you can find the projects I’ve been working on as well as useful reposito
 ## 🌐 My Projects & Websites
 
 - [CDN](https://cdn-site-self.vercel.app/ru) — A programming reference hub.
-- [AvtoBox18](https://xn--18-6kcee3c0ab2af.xn--p1ai/) — Website developed for the AvtoBox18 car service.
+- [AutoBox18](https://xn--18-6kcee3c0ab2af.xn--p1ai/) — Website developed for the AvtoBox18 car service.
 - [RusEGE](https://xn--c1ad6aej7d.xn--p1ai/) — Website to help students prepare for Russian language exams (OGE, EGE).
 - [AutoSchedule](https://auto-schedule.vercel.app/) — A modern scheduling management system for car services.
 - [IT Lyceum](https://itlyceum.vercel.app/) — Website of the IT Lyceum with useful information and learning resources.
