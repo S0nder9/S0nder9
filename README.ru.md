@@ -29,7 +29,7 @@ _Прочитайте это на других языках_: [`Russian`](README
 ## 🌐 Мои проекты и сайты
 
 - [CDN](https://cdn-site-self.vercel.app/ru) — Справочник по программированию.
-- [Автобокс18](https://xn--18-6kcee3c0ab2af.xn--p1ai/) — Сайт, разработанный для автосервиса Автобокс18. (Не доступен на текущий момент)
+- [Автобокс18](http://xn--18-6kcee3c0ab2af.xn--p1ai/main) — Сайт, разработанный для автосервиса Автобокс18.
 - [Русегэ](https://xn--c1ad6aej7d.xn--p1ai/) — Сайт для подготовки учеников к экзаменам по русскому языку (ОГЭ, ЕГЭ). (Не доступен на текущий момент)
 - [AutoSchedule](https://auto-schedule.vercel.app/) — Современная система управления записями для автосервисов.
 - [СдAI ЕГЭ](https://sdai-ege.vercel.app/) — прототип сайта для инновационного решения ЕГЭ с использованием ии. Пользователь может проходить диагностические тесты, решать задания, получать AI-разбор ошибок, отслеживать прогресс и взаимодействовать с основными функциями платформы.
@@ -47,23 +47,64 @@ _Прочитайте это на других языках_: [`Russian`](README
 - [sonder-tools](https://www.npmjs.com/package/sonder-tools) — Небольшой набор утилит и функций для упрощения разработки.
 - [alyticui](https://www.npmjs.com/package/alyticui) — UI-фреймворк с готовыми компонентами.
 
-## 📈 Статистика и Достижения
+## Детальнее о моих проектах:
 
-![GitHub Репозитории](https://img.shields.io/badge/GitHub%20Repositories-10+-blue)
-![Контрибуции](https://img.shields.io/badge/Contributions-200%2B-brightgreen)
-![Звезды](https://img.shields.io/badge/Stars-10%2B-yellow)
-
-- **Репозитории**: 10+ активных репозиториев на GitHub 
-- **Контрибуции**: 200+ контрибуций в открытые проекты
-- **Звезды**: 10+ звезд за мои проекты
+1. [AutoSchedule](https://auto-schedule.vercel.app/):
+ <img src="image-16.png" width="1000" />
 
 
-## 📈 Статистика GitHub
+2. [CDN](https://cdn-site-self.vercel.app/ru):
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=S0nder9&show_icons=true&theme=radical)
+   <img src="assets/cdn-preview.png" width="1000" />
+   <img src="assets/cdn-preview2.png" width="1000" />
 
+   <img src="image.png" width="1000" />
+   <img src="image-2.png" width="1000" />
+   <img src="image-3.png" width="1000" />
 
-[![Gif1](assets/bJk.gif)](assets/bJk.gif)
+3. [AutoBox18](http://xn--18-6kcee3c0ab2af.xn--p1ai/):
+ <img src="image-16.png" width="1000" />
+ <img src="image-17.png" width="1000" />
+ <img src="image-18.png" width="1000" />
+ <img src="image-19.png" width="1000" />
+ <img src="image-20.png" width="1000" />
+
+4. [RusEGE](https://xn--c1ad6aej7d.xn--p1ai/):
+
+5. [СдAI ЕГЭ](https://sdai-ege.vercel.app/):
+
+   <img src="image-1.png" width="500" height = "auto" />
+   <img src="image-4.png" width="500" height = "auto" />
+   <img src="image-5.png" width="500" height = "auto" />
+   <img src="image-6.png" width="500" height = "auto" />
+
+6. [IT Lyceum](https://itlyceum.vercel.app/):
+<img src="image-7.png" width="1000" />
+<img src="image-8.png" width="1000" />
+<img src="image-9.png" width="1000" />
+<img src="image-10.png" width="1000" />
+<img src="image-11.png" width="1000" />
+<img src="image-12.png" width="1000" />
+
+7. [TextVoicing](https://s0nder9.github.io/TextVoicing/):
+<img src="image-13.png" width="1000" />
+<img src="image-14.png" width="1000" />
+
+8. [Ireland](https://ireland-chi.vercel.app/):
+<img src="image-15.png" width="1000" />
+
+---
+9. [FreeWiFi-Hunter](https://disk.yandex.ru/d/ZMupAP3jNMUY1g):
+<img src="image-25.png"/>
+<img src="image-26.png" />
+<img src="image-27.png" />
+<img src="image-28.png" />
+
+10. [СдAI ЕГЭ](https://disk.yandex.ru/d/MklxTS7eK3DWjA):
+<img src="image-21.png" width="1000" />
+<img src="image-22.png" width="1000" />
+<img src="image-23.png" width="1000" />
+<img src="image-24.png" width="1000" />
 
 ---
 
