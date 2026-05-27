@@ -3,7 +3,7 @@ _Read this in other languages_: [`Russian`](README.ru.md), [`English`](README.md
 # Hi! I’m Sonder 👋
 
 Welcome to my GitHub profile!  
-I’m a frontend and backend developer experienced in **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, **Node.js**, **Django**, and **Python**.  
+I’m a frontend and backend developer experienced in **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, **Node.js**, **Django**, **Python** and **ASP NET CORE**.  
 Here you can find the projects I’ve been working on as well as useful repositories for developers.
 
 ## 🛠️ Skills & Technologies
@@ -22,7 +22,7 @@ Here you can find the projects I’ve been working on as well as useful reposito
 ![Python](https://img.shields.io/badge/Python-3.9-3776AB?logo=python&logoColor=white)
 
 ![C#](https://img.shields.io/badge/C%23-10.0-512BD4?logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&logoColor=white)
+![ASP NET CORE](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&logoColor=white)
 
 - **Databases**: Firebase, PostgreSQL, SQLite, MongoDB
 
@@ -49,8 +49,6 @@ Here you can find the projects I’ve been working on as well as useful reposito
 
 ---
 
-## More detailed about my projects:
-
 1. [AutoSchedule](https://auto-schedule.vercel.app/):
  <img src="image-16.png" width="1000" />
 
@@ -72,6 +70,10 @@ Here you can find the projects I’ve been working on as well as useful reposito
  <img src="image-20.png" width="1000" />
 
 4. [RusEGE](https://xn--c1ad6aej7d.xn--p1ai/):
+![alt text](image-32.png)
+![alt text](image-33.png)
+![alt text](image-34.png)
+![alt text](image-35.png)
 
 5. [СдAI ЕГЭ](https://sdai-ege.vercel.app/):
 
@@ -108,6 +110,10 @@ Here you can find the projects I’ve been working on as well as useful reposito
 <img src="image-23.png" width="1000" />
 <img src="image-24.png" width="1000" />
 
+11. [WindSnap](https://wind-snap.vercel.app/):
+<img src="image-29.png" width="1000" />
+<img src="image-30.png" width="1000" />
+<img src="image-31.png" width="1000" />
 ---
 
 

@@ -3,7 +3,7 @@ _Прочитайте это на других языках_: [`Russian`](README
 # Привет! Я Sonder 👋
 
 Добро пожаловать в мой профиль GitHub!  
-Я фронтенд и бэкенд-разработчик с опытом работы в **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, **Node.js**, **Django** и **Python**.  
+Я фронтенд и бэкенд-разработчик с опытом работы в **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, **Node.js**, **Django**, **Python** и **ASP NET CORE**.  
 Здесь вы найдете проекты, над которыми я работал, а также полезные репозитории для разработчиков.
 
 ## 🛠️ Навыки и Технологии
@@ -22,7 +22,7 @@ _Прочитайте это на других языках_: [`Russian`](README
 ![Python](https://img.shields.io/badge/Python-3.9-3776AB?logo=python&logoColor=white)
 
 ![C#](https://img.shields.io/badge/C%23-10.0-512BD4?logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&logoColor=white)
+![ASP NET CORE](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&logoColor=white)
 
 - **Базы данных**: Firebase, PostgreSQL, SQLite, MongoDB
 
@@ -31,6 +31,7 @@ _Прочитайте это на других языках_: [`Russian`](README
 - [CDN](https://cdn-site-self.vercel.app/ru) — Справочник по программированию.
 - [Автобокс18](http://xn--18-6kcee3c0ab2af.xn--p1ai/main) — Сайт, разработанный для автосервиса Автобокс18.
 - [Русегэ](https://xn--c1ad6aej7d.xn--p1ai/) — Сайт для подготовки учеников к экзаменам по русскому языку (ОГЭ, ЕГЭ). (Не доступен на текущий момент)
+- [WindSnap](https://wind-snap.vercel.app/) — Прогноз погоды с помощью AI на основе геопозиции пользователя (Не доступен на текущий момент).
 - [AutoSchedule](https://auto-schedule.vercel.app/) — Современная система управления записями для автосервисов.
 - [СдAI ЕГЭ](https://sdai-ege.vercel.app/) — прототип сайта для инновационного решения ЕГЭ с использованием ии. Пользователь может проходить диагностические тесты, решать задания, получать AI-разбор ошибок, отслеживать прогресс и взаимодействовать с основными функциями платформы.
 - [IT Lyceum](https://itlyceum.vercel.app/) — Веб-сайт IT-лицея с полезной информацией и учебными ресурсами.
@@ -70,6 +71,10 @@ _Прочитайте это на других языках_: [`Russian`](README
  <img src="image-20.png" width="1000" />
 
 4. [RusEGE](https://xn--c1ad6aej7d.xn--p1ai/):
+![alt text](image-32.png)
+![alt text](image-33.png)
+![alt text](image-34.png)
+![alt text](image-35.png)
 
 5. [СдAI ЕГЭ](https://sdai-ege.vercel.app/):
 
@@ -106,6 +111,10 @@ _Прочитайте это на других языках_: [`Russian`](README
 <img src="image-23.png" width="1000" />
 <img src="image-24.png" width="1000" />
 
+11. [WindSnap](https://wind-snap.vercel.app/):
+<img src="image-29.png" width="1000" />
+<img src="image-30.png" width="1000" />
+<img src="image-31.png" width="1000" />
 ---
 
 Спасибо, что посетили мой профиль! Удачного кодинга! 🚀
